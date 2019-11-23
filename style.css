@@ -1,0 +1,34 @@
+.style-col {
+
+    background-color: blue;
+    font-family: "Arial";
+    text-align: center;
+    height: 100px;
+    display: flex;
+        justify-content: center;
+        align-items: center;
+    
+    font-size: 30px;
+}
+
+.param-col {
+
+    margin-top: 30px;
+    background-color: lightblue;
+}
+
+.navbar {
+
+    margin-top: 30px;
+}
+
+.searchbutton {
+
+    margin-top: 20px;
+}
+
+
+p {
+
+    margin-top: 30px;
+}
